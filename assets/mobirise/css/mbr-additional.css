@@ -1110,7 +1110,7 @@ section.lazy-placeholder:after {
 }
 .cid-sa4exEXxbc {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-sa4exEXxbc P {
@@ -1121,7 +1121,15 @@ section.lazy-placeholder:after {
 }
 .cid-sa4exEXxbc .mbr-text,
 .cid-sa4exEXxbc .mbr-section-btn {
-  text-align: center;
+  text-align: left;
+}
+.cid-sa9ZwKaVZw {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-sa9ZwKaVZw P {
+  color: #767676;
 }
 .cid-sa4fS6xAMt {
   padding-top: 90px;
